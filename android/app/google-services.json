@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "95407136202",
+    "firebase_url": "https://educlass-8d8e2.firebaseio.com",
+    "project_id": "educlass-8d8e2",
+    "storage_bucket": "educlass-8d8e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95407136202:android:327a4e90cffeaf6a0b0333",
+        "android_client_info": {
+          "package_name": "com.study.education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95407136202-uthf5q3i24rbdce2p8dvsuhr5a63jsmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxVxUAld7ljRBOipUkbzz0g5LMDrbXwM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95407136202-uthf5q3i24rbdce2p8dvsuhr5a63jsmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1077587831782371~1038969210"
+    }
+  ],
+  "configuration_version": "1"
+}
